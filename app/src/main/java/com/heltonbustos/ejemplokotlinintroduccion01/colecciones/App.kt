@@ -16,4 +16,5 @@ fun main(){
 
     println(largoMayorA3)
     println(xx)
+    println(lista.filter { it.startsWith("U") })
 }
